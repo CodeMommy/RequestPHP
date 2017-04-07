@@ -1,7 +1,7 @@
 {
   "name": "codemommy/requestphp",
   "version": "0.0.2",
-  "description": "CodeMommy RequestPHP is a request helper for web development.",
+  "description": "Get all the request information of web",
   "keywords": [
     "CodeMommy",
     "RequestPHP",
